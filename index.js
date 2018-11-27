@@ -98,8 +98,8 @@ const server = micro(async (req, res) => {
   try {
     const value = await getSensorValue()
     await sendData(value, value.Timestamp)
+    return { message: value }
   } catch (err) {
     return { error: err.message }
   }
-  return { message: 'OK' }
 }).listen(process.env.PORT || 3000)
