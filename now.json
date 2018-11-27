@@ -1,0 +1,7 @@
+{
+  "env": {
+    "NATURE_REMO_CLOUD_API_TOKEN": "@nature_remo_cloud_api_token",
+    "CLOUD4RPI_TOKEN": "@cloud4rpi_token",
+    "SERVICE_KEY": "@service_key"
+  }
+}
