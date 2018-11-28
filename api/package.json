@@ -1,16 +1,13 @@
 {
-  "name": "nature-remo-sensor-analysis",
+  "name": "nature-remo-sensor-watchtower",
   "version": "1.0.0",
-  "description": "",
+  "description": "A watchtower for Nature Remo sensors",
   "main": "index.js",
   "scripts": {
-    "start": "node ."
+    "start": "micro"
   },
-  "keywords": [],
   "author": "Yasuaki Uechi <y@uechi.io> (https://uechi.io)",
-  "license": "MIT",
   "dependencies": {
-    "micro": "^9.3.3",
     "nature-remo": "^0.3.0",
     "node-fetch": "^2.3.0"
   }
