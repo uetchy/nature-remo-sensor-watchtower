@@ -34,14 +34,14 @@ ms@2.0.0:
   resolved "https://registry.yarnpkg.com/ms/-/ms-2.0.0.tgz#5608aeadfc00be6c2901df5f9861788de0d597c8"
   integrity sha1-VgiurfwAvmwpAd9fmGF4jeDVl8g=
 
-nature-remo@^0.3.0:
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/nature-remo/-/nature-remo-0.3.0.tgz#55893e328ed5d954b221c478d4bbd4aa5d3060cd"
-  integrity sha512-DsxVRLdUQD0fPUuonjD0KAwHT3WB/cQIktClcQeqSLgkcp1kS9KAEVk7VKyRDFYRJ7TwzIXWq4yFp93qobEnSA==
+nature-remo@^0.3.1:
+  version "0.3.1"
+  resolved "https://registry.yarnpkg.com/nature-remo/-/nature-remo-0.3.1.tgz#9a3a9c9f64809c3e02fbdeba3e8beefd66cf3961"
+  integrity sha512-zEmX+v/tdvBibsVnqWePS6oZw7EWwR1hm2xzQqTLm0fhr+0vQie8S34ZVBXnLbJB6imGCghkWh/XhCRsZmdNwA==
   dependencies:
     axios "^0.18.0"
 
-node-fetch@^2.3.0:
-  version "2.3.0"
-  resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.3.0.tgz#1a1d940bbfb916a1d3e0219f037e89e71f8c5fa5"
-  integrity sha512-MOd8pV3fxENbryESLgVIeaGKrdl+uaYhCSSVkjeOb/31/njTpcis5aWfdqgNlHIrKOLRbMnfPINPOML2CIFeXA==
+node-fetch@^2.5.0:
+  version "2.5.0"
+  resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.5.0.tgz#8028c49fc1191bba56a07adc6e2a954644a48501"
+  integrity sha512-YuZKluhWGJwCcUu4RlZstdAxr8bFfOVHakc1mplwHkk8J+tqM1Y5yraYvIUpeX8aY7+crCwiELJq7Vl0o0LWXw==

@@ -1,7 +1,11 @@
 {
   "version": 2,
-  "builds": [{ "src": "api/index.js", "use": "@now/node" }],
-  "public": false,
+  "builds": [
+    {
+      "src": "api/index.js",
+      "use": "@now/node"
+    }
+  ],
   "env": {
     "NATURE_REMO_CLOUD_API_TOKEN": "@nature_remo_cloud_api_token",
     "CLOUD4RPI_TOKEN": "@cloud4rpi_token",

@@ -8,7 +8,7 @@
   },
   "author": "Yasuaki Uechi <y@uechi.io> (https://uechi.io)",
   "dependencies": {
-    "nature-remo": "^0.3.0",
-    "node-fetch": "^2.3.0"
+    "nature-remo": "^0.3.1",
+    "node-fetch": "^2.5.0"
   }
 }
